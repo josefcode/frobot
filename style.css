@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito";
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  color: #6df0c2;
+  font-family: "Courier New", Courier, monospace;
+}
+#container {
+  background: #141c3a;
+  margin: 0;
+  display: block;
+  float: left;
+  width: 100vw;
+  height: 100vh;
+}
+#view-button {
+  width: 380px;
+  height: 50px;
+  font-size: 24px;
+  border: none;
+  display: block;
+  background-color: #6df0c2;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  font-family: "Nunito";
+}
+#codey {
+  display: none;
+  width: 200px;
+  margin: 0 auto;
+}
+#close-button {
+  width: 380px;
+  height: 50px;
+  font-size: 24px;
+  border: none;
+  display: none;
+  background-color: #fd4d3f;
+  margin: 0 auto;
+  margin-top: 20px;
+  cursor: pointer;
+  font-family: "Nunito";
+}
